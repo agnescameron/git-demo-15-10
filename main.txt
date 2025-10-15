@@ -4,7 +4,7 @@ I am learning about git
 
 It's a bit confusing but that's okay we're gonna see I guess
 
-this is minnie's changes I love mangos!
+this is minnie's changes I love mangos! agnes changed this line too
 
 plum plum plum
 
