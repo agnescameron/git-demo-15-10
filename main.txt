@@ -3,16 +3,16 @@ here's a file with a line of text
 I am learning about git
 
 It's a bit confusing but that's okay we're gonna see I guess
-
-this is minnie's changes I love mangos! agnes changed this line too
-this is minnie's changes I love mangos and plums too!
-
+AAAAAAA
+this is minnie's changes I love mangos! agnes changed this line too AAAAAAAA
+this is minnie's changes I love mangos and plums too! AAAAAAA
+AAAAAAA
 plum plum plum
-
+AAAAAAA
 adding some more poetry
 
 Unicode 사랑해요 ❤️
-hihihihihi 
+hihihihihi AAAAAAAAA
 git a load of this guy
 
 lalala yolo
